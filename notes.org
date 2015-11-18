@@ -1,0 +1,23 @@
+* Business model
+** Value for its costumer
+** Market
+** Costs and earnings
+** Suppliers and customer interaction
+** Competition strategy
+** One can use the Osterwalder BM canvas
+** Some theories on how a firm generates value and has a competitive edge:
+*** Value chain:
+**** Describes the flow(chain) of how the product should be developed and the supporting activities
+*** Resource-based theory of the firm
+**** Look at the pool of resources and capabilities available eg. employees, offices, products, brand or market research.
+**** Example: resources: protocols, applications, programmer etc.; capabilities: deliver quality, innovate etc.
+**** If the capability is valuable, rare, costly to imitate or non-substitutable it can be used.
+*** Knowledge-based theory of the firm
+**** Firm based on different forms of knowledge: 
+***** create, transfer and transform knowledge to a competitive advantage
+***** work with knowledge and learning
+***** develop an organisational learning culture
+*** Five forces of competition
+**** Analyse the industry
+**** Value of software is partly determined by how they compete in the market
+**** 
