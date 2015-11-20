@@ -20,4 +20,17 @@
 *** Five forces of competition
 **** Analyse the industry
 **** Value of software is partly determined by how they compete in the market
-**** 
+*** Theories of change and resistance
+**** Intrapreneurship
+* ADE and CDA - two paradigms
+** Helps structuring complex stuff - so simplify stuff
+** Based on Sarasvathy
+** ADE - Analysis, Design, Enact
+*** Lots of analysis
+*** for Markets that are established
+** CDA - Consider, Do, Adjust
+*** less analysis
+*** Look at the resources available and see what u can do with them
+*** Control investment - don't invest more than u are comfortable with
+*** Make alliances and partnership instead of being concerned too much with market and competition
+*** For new markets
